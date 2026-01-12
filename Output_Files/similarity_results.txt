@@ -1,0 +1,132 @@
+
+
+Embedding Type: CBOW
+==================================================
+
+Query Word: distributor
+----------------------------------------
+overstock       : 0.6611
+managed         : 0.5973
+are             : 0.5827
+time            : 0.5455
+scanning        : 0.4393
+
+Query Word: demand
+----------------------------------------
+reorder         : 0.4071
+loading         : 0.3727
+and             : 0.3638
+toreduce        : 0.3452
+warehousecapacity : 0.2615
+
+Query Word: lead
+----------------------------------------
+consider        : 0.5853
+plans           : 0.5027
+on              : 0.4349
+toreduce        : 0.3894
+based           : 0.3218
+
+Query Word: cost
+----------------------------------------
+delivery        : 0.7005
+through         : 0.6667
+safety          : 0.4788
+toreduce        : 0.4191
+points          : 0.3796
+
+Query Word: reorder
+----------------------------------------
+stockouts       : 0.6799
+time            : 0.5912
+during          : 0.4688
+managed         : 0.4514
+routing         : 0.4453
+
+
+Embedding Type: CBOW
+==================================================
+
+Query Word: distributor
+----------------------------------------
+overstock       : 0.6611
+managed         : 0.5973
+are             : 0.5827
+time            : 0.5455
+scanning        : 0.4393
+
+Query Word: demand
+----------------------------------------
+reorder         : 0.4071
+loading         : 0.3727
+and             : 0.3638
+toreduce        : 0.3452
+warehousecapacity : 0.2615
+
+Query Word: lead
+----------------------------------------
+consider        : 0.5853
+plans           : 0.5027
+on              : 0.4349
+toreduce        : 0.3894
+based           : 0.3218
+
+Query Word: cost
+----------------------------------------
+delivery        : 0.7005
+through         : 0.6667
+safety          : 0.4788
+toreduce        : 0.4191
+points          : 0.3796
+
+Query Word: reorder
+----------------------------------------
+stockouts       : 0.6799
+time            : 0.5912
+during          : 0.4688
+managed         : 0.4514
+routing         : 0.4453
+
+
+Embedding Type: SKIPGRAM
+==================================================
+
+Query Word: distributor
+----------------------------------------
+delays          : 0.5407
+stockand        : 0.4334
+forecasts       : 0.4019
+transit         : 0.3955
+are             : 0.2719
+
+Query Word: demand
+----------------------------------------
+stockouts       : 0.6259
+delivery        : 0.5522
+forecasts       : 0.5472
+road            : 0.5297
+shipments       : 0.4654
+
+Query Word: lead
+----------------------------------------
+loading         : 0.7722
+consider        : 0.4769
+managed         : 0.4029
+reorder         : 0.4004
+fuel            : 0.3594
+
+Query Word: cost
+----------------------------------------
+and             : 0.5243
+during          : 0.5021
+windows         : 0.3223
+overstock       : 0.3128
+are             : 0.3031
+
+Query Word: reorder
+----------------------------------------
+consider        : 0.7271
+managed         : 0.6657
+loading         : 0.4440
+conditions      : 0.4388
+on              : 0.4380
